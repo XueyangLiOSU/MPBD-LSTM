@@ -1,5 +1,5 @@
 # MPBD-LSTM: A Predictive Model For Colorectal Liver Metastases Using Time Series Multi-phase Contrast-Enhanced CT Scans
-This is the official repo of the article "MPBD-LSTM: A Predictive Model For Colorectal Liver Metastases Using Time Series Multi-phase Contrast-Enhanced CT Scans" (MICCAI 2023). Code will be uploaded shortly.
+This is the official repo of the article "MPBD-LSTM: A Predictive Model For Colorectal Liver Metastases Using Time Series Multi-phase Contrast-Enhanced CT Scans" (MICCAI 2023). Code will be uploaded shortly after the article is published.
 
 ## Dataset:
 Our dataset consists of 269 patients in total, with a positive rate of 25.7%. Aside from the plain scan phase, it has 2 additional contrast-enhanced phase: the portal venous phase (V) and the arterial phase.
